@@ -8,3 +8,57 @@ https://last.gcdn.co/IND451/index.m3u8
 
 #EXTINF:3, Tv - T SPORTS
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
+
+#EXTINF:4, Tv - CHANNEL I
+http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
+
+#EXTINF:5, Tv - DBC
+http://tv.alphamediazone.com:8089/thunderbd/7/index.m3u8
+
+#EXTINF:6, Tv - DIPTO
+http://tv.alphamediazone.com:8089/thunderbd/8/index.m3u8
+
+#EXTINF:7, Tv - Duronto
+http://tv.alphamediazone.com:8089/thunderbd/10/index.m3u8
+
+#EXTINF:8, Tv - JAMUNA TV
+http://tv.alphamediazone.com:8089/thunderbd/13/index.m3u8
+
+#EXTINF:9, Tv - ANONDO TV
+http://tv.alphamediazone.com:8089/thunderbd/16/index.m3u8
+
+#EXTINF:10, Tv - NEWS24
+http://tv.alphamediazone.com:8089/thunderbd/18/index.m3u8
+
+#EXTINF:11, Tv - BANGLA TV
+http://tv.alphamediazone.com:8089/thunderbd/19/index.m3u8
+
+#EXTINF:12, Tv - SONY TEN 1
+http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
+
+#EXTINF:13, Tv - SONY TEN 2
+http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
+
+#EXTINF:14, Tv - ESPN 2
+http://tv.alphamediazone.com:8089/thunderbd/23/index.m3u8
+
+#EXTINF:15, Tv - SONY SIX
+http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
+
+#EXTINF:16, Tv - STAR SPORTS 1
+http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
+
+#EXTINF:17, Tv - STAR SPORTS 2
+http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
+
+#EXTINF:18, Tv - STAR SPORTS SELECT 2
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+
+#EXTINF:19, Tv - ZEE BANGLA CINEMA 
+http://tv.alphamediazone.com:8089/thunderbd/29/index.m3u8
+
+#EXTINF:20, Tv - JALSHA MOVIES HD
+http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
+
+#EXTINF:21, Tv - ZEE BANGLA HD
+http://tv.alphamediazone.com:8089/thunderbd/34/index.m3u8
