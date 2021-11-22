@@ -62,3 +62,39 @@ http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
 
 #EXTINF:21, Tv - ZEE BANGLA HD
 http://tv.alphamediazone.com:8089/thunderbd/34/index.m3u8
+
+#EXTINF:22, Tv - SONY SAB
+http://tv.alphamediazone.com:8089/thunderbd/36/index.m3u8
+
+#EXTINF:23, Tv - SONY E TV
+http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
+
+#EXTINF:24, Tv - ON DEMAND 
+http://tv.alphamediazone.com:8089/thunderbd/39/index.m3u8
+
+#EXTINF:25, Tv - ZEE TV HD
+http://tv.alphamediazone.com:8089/thunderbd/40/index.m3u8
+
+#EXTINF:26, Tv - SONY PIX
+http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
+
+#EXTINF:27, Tv - DISCOVERY
+http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
+
+#EXTINF:28, Tv - SONY BBC EARTH
+http://tv.alphamediazone.com:8089/thunderbd/44/index.m3u8
+
+#EXTINF:29, Tv - ZEE CLASSIC
+http://tv.alphamediazone.com:8089/thunderbd/46/index.m3u8
+
+#EXTINF:30, Tv - 9xm
+http://tv.alphamediazone.com:8089/thunderbd/48/index.m3u8
+
+#EXTINF:31, Tv - ATN NEWS
+http://tv.alphamediazone.com:8089/thunderbd/49/index.m3u8
+
+#EXTINF:32, Tv - MACHRANGA
+http://tv.alphamediazone.com:8089/thunderbd/51/index.m3u8
+
+#EXTINF:33, Tv - BTV
+http://tv.alphamediazone.com:8089/thunderbd/53/index.m3u8
