@@ -10,7 +10,7 @@ https://last.gcdn.co/IND451/index.m3u8
 http://103.124.110.34:8082/tsp/index.m3u8
 
 #EXTINF:4, Tv - CHANNEL I
-http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
+http://103.136.200.246:8082/Channel-i/index.m3u8
 
 #EXTINF:5, Tv - DBC
 http://tv.alphamediazone.com:8089/thunderbd/7/index.m3u8
