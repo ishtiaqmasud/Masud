@@ -1,6 +1,16 @@
-
+#EXTM3U
+ 
 #EXTINF:1, Tv - dipto tv
 https://last.gcdn.co/IND450/index.m3u8
  
 #EXTINF:2, Tv - Asian tv
 https://last.gcdn.co/IND451/index.m3u8
+
+#EXTINF:3, Tv - T SPORTS
+http://103.124.110.34:8082/tsp/index.m3u8
+
+#EXTINF:4, Tv - CHANNEL I
+http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
+
+#EXTINF:5, Tv - DBC
+http://tv.alphamediazone.com:8089/thunderbd/7/index.m3u8
